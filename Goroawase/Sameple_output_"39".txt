@@ -1,0 +1,273 @@
+You have input ['3', '9'] these numbers.
+
+
+1:みつここのつ
+1:honeycomb
+1:{'source': 'ja', 'target': 'en', 'text': 'みつここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko konotsu'}
+2:みつこ
+2:honeycomb
+2:{'source': 'ja', 'target': 'en', 'text': 'みつこ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko'}
+3:みつきゅう
+3:honeycomb
+3:{'source': 'ja', 'target': 'en', 'text': 'みつきゅう', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsu kyū'}
+4:みつきゅ
+4:honeycomb
+4:{'source': 'ja', 'target': 'en', 'text': 'みつきゅ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsukyu'}
+5:みつく
+5:to find
+5:{'source': 'ja', 'target': 'en', 'text': 'みつく', 'translatedText': 'to find', 'sound': None, 'srcSound': 'mitsuku'}
+6:みつナイン
+6:three nine
+6:{'source': 'ja', 'target': 'en', 'text': 'みつナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "mitsunain'"}
+7:みここのつ
+7:honeycomb
+7:{'source': 'ja', 'target': 'en', 'text': 'みここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mikokono tsu'}
+8:みこ
+8:miko (literally, Inc
+8:{'source': 'ja', 'target': 'en', 'text': 'みこ', 'translatedText': 'miko (literally, Inc', 'sound': None, 'srcSound': 'miko'}
+9:みきゅう
+9:squeak
+9:{'source': 'ja', 'target': 'en', 'text': 'みきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'mi kyū'}
+10:みきゅ
+10:mikyu (literally, "mikyu")
+10:{'source': 'ja', 'target': 'en', 'text': 'みきゅ', 'translatedText': 'mikyu (literally, "mikyu")', 'sound': None, 'srcSound': 'mikyu'}
+11:みく
+11:to pick
+11:{'source': 'ja', 'target': 'en', 'text': 'みく', 'translatedText': 'to pick', 'sound': None, 'srcSound': 'miku'}
+12:みナイン
+12:Minine
+12:{'source': 'ja', 'target': 'en', 'text': 'みナイン', 'translatedText': 'Minine', 'sound': None, 'srcSound': "minain'"}
+13:さんここのつ
+13:three-pronged woodpecker
+13:{'source': 'ja', 'target': 'en', 'text': 'さんここのつ', 'translatedText': 'three-pronged woodpecker', 'sound': None, 'srcSound': "san'kokono tsu"}
+14:さんこ
+14:fish cake
+14:{'source': 'ja', 'target': 'en', 'text': 'さんこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': "san'ko"}
+15:さんきゅう
+15:sound of something happening in front of one's head
+15:{'source': 'ja', 'target': 'en', 'text': 'さんきゅう', 'translatedText': "sound of something happening in front of one's head", 'sound': None, 'srcSound': "san'kyū"}
+16:さんきゅ
+16:sound of something falling on one's face
+16:{'source': 'ja', 'target': 'en', 'text': 'さんきゅ', 'translatedText': "sound of something falling on one's face", 'sound': None, 'srcSound': "san'kyu"}
+17:さんく
+17:to take a long time
+17:{'source': 'ja', 'target': 'en', 'text': 'さんく', 'translatedText': 'to take a long time', 'sound': None, 'srcSound': "san'ku"}
+18:さんナイン
+18:three-nine
+18:{'source': 'ja', 'target': 'en', 'text': 'さんナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "san' nain'"}
+19:さここのつ
+19:rustling
+19:{'source': 'ja', 'target': 'en', 'text': 'さここのつ', 'translatedText': 'rustling', 'sound': None, 'srcSound': 'sa kokono tsu'}
+20:さこ
+20:fish cake
+20:{'source': 'ja', 'target': 'en', 'text': 'さこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': 'sako'}
+21:さきゅう
+21:squeak
+21:{'source': 'ja', 'target': 'en', 'text': 'さきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'sa kyū'}
+22:さきゅ
+22:previously
+22:{'source': 'ja', 'target': 'en', 'text': 'さきゅ', 'translatedText': 'previously', 'sound': None, 'srcSound': 'sakyu'}
+23:さく
+23:fence
+23:{'source': 'ja', 'target': 'en', 'text': 'さく', 'translatedText': 'fence', 'sound': None, 'srcSound': 'saku'}
+24:さナイン
+24:three-nine
+24:{'source': 'ja', 'target': 'en', 'text': 'さナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "sa nain'"}
+25:スリーここのつ
+25:three-and-a-half-and-a-half-year-old woman
+25:{'source': 'ja', 'target': 'en', 'text': 'スリーここのつ', 'translatedText': 'three-and-a-half-and-a-half-year-old woman', 'sound': None, 'srcSound': 'surīkokono tsu'}
+26:スリーこ
+26:three-child
+26:{'source': 'ja', 'target': 'en', 'text': 'スリーこ', 'translatedText': 'three-child', 'sound': None, 'srcSound': 'surīko'}
+27:スリーきゅう
+27:sound of something falling on one's back
+27:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅう', 'translatedText': "sound of something falling on one's back", 'sound': None, 'srcSound': 'surī kyū'}
+28:スリーきゅ
+28:three-cu
+28:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅ', 'translatedText': 'three-cu', 'sound': None, 'srcSound': 'surīkyu'}
+29:スリーく
+29:three times
+29:{'source': 'ja', 'target': 'en', 'text': 'スリーく', 'translatedText': 'three times', 'sound': None, 'srcSound': 'surīku'}
+30:スリーナイン
+30:three nine
+30:{'source': 'ja', 'target': 'en', 'text': 'スリーナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "surīnain'"}
+31:みつここのつ
+31:honeycomb
+31:{'source': 'ja', 'target': 'en', 'text': 'みつここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko konotsu'}
+32:みつこ
+32:honeycomb
+32:{'source': 'ja', 'target': 'en', 'text': 'みつこ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko'}
+33:みつきゅう
+33:honeycomb
+33:{'source': 'ja', 'target': 'en', 'text': 'みつきゅう', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsu kyū'}
+34:みつきゅ
+34:honeycomb
+34:{'source': 'ja', 'target': 'en', 'text': 'みつきゅ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsukyu'}
+35:みつく
+35:to find
+35:{'source': 'ja', 'target': 'en', 'text': 'みつく', 'translatedText': 'to find', 'sound': None, 'srcSound': 'mitsuku'}
+36:みつナイン
+36:three nine
+36:{'source': 'ja', 'target': 'en', 'text': 'みつナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "mitsunain'"}
+37:みここのつ
+37:honeycomb
+37:{'source': 'ja', 'target': 'en', 'text': 'みここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mikokono tsu'}
+38:みこ
+38:miko (literally, Inc
+38:{'source': 'ja', 'target': 'en', 'text': 'みこ', 'translatedText': 'miko (literally, Inc', 'sound': None, 'srcSound': 'miko'}
+39:みきゅう
+39:squeak
+39:{'source': 'ja', 'target': 'en', 'text': 'みきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'mi kyū'}
+40:みきゅ
+40:mikyu (literally, "mikyu")
+40:{'source': 'ja', 'target': 'en', 'text': 'みきゅ', 'translatedText': 'mikyu (literally, "mikyu")', 'sound': None, 'srcSound': 'mikyu'}
+41:みく
+41:to pick
+41:{'source': 'ja', 'target': 'en', 'text': 'みく', 'translatedText': 'to pick', 'sound': None, 'srcSound': 'miku'}
+42:みナイン
+42:Minine
+42:{'source': 'ja', 'target': 'en', 'text': 'みナイン', 'translatedText': 'Minine', 'sound': None, 'srcSound': "minain'"}
+43:さんここのつ
+43:three-pronged woodpecker
+43:{'source': 'ja', 'target': 'en', 'text': 'さんここのつ', 'translatedText': 'three-pronged woodpecker', 'sound': None, 'srcSound': "san'kokono tsu"}
+44:さんこ
+44:fish cake
+44:{'source': 'ja', 'target': 'en', 'text': 'さんこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': "san'ko"}
+45:さんきゅう
+45:sound of something happening in front of one's head
+45:{'source': 'ja', 'target': 'en', 'text': 'さんきゅう', 'translatedText': "sound of something happening in front of one's head", 'sound': None, 'srcSound': "san'kyū"}
+46:さんきゅ
+46:sound of something falling on one's face
+46:{'source': 'ja', 'target': 'en', 'text': 'さんきゅ', 'translatedText': "sound of something falling on one's face", 'sound': None, 'srcSound': "san'kyu"}
+47:さんく
+47:to take a long time
+47:{'source': 'ja', 'target': 'en', 'text': 'さんく', 'translatedText': 'to take a long time', 'sound': None, 'srcSound': "san'ku"}
+48:さんナイン
+48:three-nine
+48:{'source': 'ja', 'target': 'en', 'text': 'さんナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "san' nain'"}
+49:さここのつ
+49:rustling
+49:{'source': 'ja', 'target': 'en', 'text': 'さここのつ', 'translatedText': 'rustling', 'sound': None, 'srcSound': 'sa kokono tsu'}
+50:さこ
+50:fish cake
+50:{'source': 'ja', 'target': 'en', 'text': 'さこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': 'sako'}
+51:さきゅう
+51:squeak
+51:{'source': 'ja', 'target': 'en', 'text': 'さきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'sa kyū'}
+52:さきゅ
+52:previously
+52:{'source': 'ja', 'target': 'en', 'text': 'さきゅ', 'translatedText': 'previously', 'sound': None, 'srcSound': 'sakyu'}
+53:さく
+53:fence
+53:{'source': 'ja', 'target': 'en', 'text': 'さく', 'translatedText': 'fence', 'sound': None, 'srcSound': 'saku'}
+54:さナイン
+54:three-nine
+54:{'source': 'ja', 'target': 'en', 'text': 'さナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "sa nain'"}
+55:スリーここのつ
+55:three-and-a-half-and-a-half-year-old woman
+55:{'source': 'ja', 'target': 'en', 'text': 'スリーここのつ', 'translatedText': 'three-and-a-half-and-a-half-year-old woman', 'sound': None, 'srcSound': 'surīkokono tsu'}
+56:スリーこ
+56:three-child
+56:{'source': 'ja', 'target': 'en', 'text': 'スリーこ', 'translatedText': 'three-child', 'sound': None, 'srcSound': 'surīko'}
+57:スリーきゅう
+57:sound of something falling on one's back
+57:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅう', 'translatedText': "sound of something falling on one's back", 'sound': None, 'srcSound': 'surī kyū'}
+58:スリーきゅ
+58:three-cu
+58:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅ', 'translatedText': 'three-cu', 'sound': None, 'srcSound': 'surīkyu'}
+59:スリーく
+59:three times
+59:{'source': 'ja', 'target': 'en', 'text': 'スリーく', 'translatedText': 'three times', 'sound': None, 'srcSound': 'surīku'}
+60:スリーナイン
+60:three nine
+60:{'source': 'ja', 'target': 'en', 'text': 'スリーナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "surīnain'"}
+61:みつここのつ
+61:honeycomb
+61:{'source': 'ja', 'target': 'en', 'text': 'みつここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko konotsu'}
+62:みつこ
+62:honeycomb
+62:{'source': 'ja', 'target': 'en', 'text': 'みつこ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsuko'}
+63:みつきゅう
+63:honeycomb
+63:{'source': 'ja', 'target': 'en', 'text': 'みつきゅう', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsu kyū'}
+64:みつきゅ
+64:honeycomb
+64:{'source': 'ja', 'target': 'en', 'text': 'みつきゅ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mitsukyu'}
+65:みつく
+65:to find
+65:{'source': 'ja', 'target': 'en', 'text': 'みつく', 'translatedText': 'to find', 'sound': None, 'srcSound': 'mitsuku'}
+66:みつナイン
+66:three nine
+66:{'source': 'ja', 'target': 'en', 'text': 'みつナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "mitsunain'"}
+67:みここのつ
+67:honeycomb
+67:{'source': 'ja', 'target': 'en', 'text': 'みここのつ', 'translatedText': 'honeycomb', 'sound': None, 'srcSound': 'mikokono tsu'}
+68:みこ
+68:miko (literally, Inc
+68:{'source': 'ja', 'target': 'en', 'text': 'みこ', 'translatedText': 'miko (literally, Inc', 'sound': None, 'srcSound': 'miko'}
+69:みきゅう
+69:squeak
+69:{'source': 'ja', 'target': 'en', 'text': 'みきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'mi kyū'}
+70:みきゅ
+70:mikyu (literally, "mikyu")
+70:{'source': 'ja', 'target': 'en', 'text': 'みきゅ', 'translatedText': 'mikyu (literally, "mikyu")', 'sound': None, 'srcSound': 'mikyu'}
+71:みく
+71:to pick
+71:{'source': 'ja', 'target': 'en', 'text': 'みく', 'translatedText': 'to pick', 'sound': None, 'srcSound': 'miku'}
+72:みナイン
+72:Minine
+72:{'source': 'ja', 'target': 'en', 'text': 'みナイン', 'translatedText': 'Minine', 'sound': None, 'srcSound': "minain'"}
+73:さんここのつ
+73:three-pronged woodpecker
+73:{'source': 'ja', 'target': 'en', 'text': 'さんここのつ', 'translatedText': 'three-pronged woodpecker', 'sound': None, 'srcSound': "san'kokono tsu"}
+74:さんこ
+74:fish cake
+74:{'source': 'ja', 'target': 'en', 'text': 'さんこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': "san'ko"}
+75:さんきゅう
+75:sound of something happening in front of one's head
+75:{'source': 'ja', 'target': 'en', 'text': 'さんきゅう', 'translatedText': "sound of something happening in front of one's head", 'sound': None, 'srcSound': "san'kyū"}
+76:さんきゅ
+76:sound of something falling on one's face
+76:{'source': 'ja', 'target': 'en', 'text': 'さんきゅ', 'translatedText': "sound of something falling on one's face", 'sound': None, 'srcSound': "san'kyu"}
+77:さんく
+77:to take a long time
+77:{'source': 'ja', 'target': 'en', 'text': 'さんく', 'translatedText': 'to take a long time', 'sound': None, 'srcSound': "san'ku"}
+78:さんナイン
+78:three-nine
+78:{'source': 'ja', 'target': 'en', 'text': 'さんナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "san' nain'"}
+79:さここのつ
+79:rustling
+79:{'source': 'ja', 'target': 'en', 'text': 'さここのつ', 'translatedText': 'rustling', 'sound': None, 'srcSound': 'sa kokono tsu'}
+80:さこ
+80:fish cake
+80:{'source': 'ja', 'target': 'en', 'text': 'さこ', 'translatedText': 'fish cake', 'sound': None, 'srcSound': 'sako'}
+81:さきゅう
+81:squeak
+81:{'source': 'ja', 'target': 'en', 'text': 'さきゅう', 'translatedText': 'squeak', 'sound': None, 'srcSound': 'sa kyū'}
+82:さきゅ
+82:previously
+82:{'source': 'ja', 'target': 'en', 'text': 'さきゅ', 'translatedText': 'previously', 'sound': None, 'srcSound': 'sakyu'}
+83:さく
+83:fence
+83:{'source': 'ja', 'target': 'en', 'text': 'さく', 'translatedText': 'fence', 'sound': None, 'srcSound': 'saku'}
+84:さナイン
+84:three-nine
+84:{'source': 'ja', 'target': 'en', 'text': 'さナイン', 'translatedText': 'three-nine', 'sound': None, 'srcSound': "sa nain'"}
+85:スリーここのつ
+85:three-and-a-half-and-a-half-year-old woman
+85:{'source': 'ja', 'target': 'en', 'text': 'スリーここのつ', 'translatedText': 'three-and-a-half-and-a-half-year-old woman', 'sound': None, 'srcSound': 'surīkokono tsu'}
+86:スリーこ
+86:three-child
+86:{'source': 'ja', 'target': 'en', 'text': 'スリーこ', 'translatedText': 'three-child', 'sound': None, 'srcSound': 'surīko'}
+87:スリーきゅう
+87:sound of something falling on one's back
+87:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅう', 'translatedText': "sound of something falling on one's back", 'sound': None, 'srcSound': 'surī kyū'}
+88:スリーきゅ
+88:three-cu
+88:{'source': 'ja', 'target': 'en', 'text': 'スリーきゅ', 'translatedText': 'three-cu', 'sound': None, 'srcSound': 'surīkyu'}
+89:スリーく
+89:three times
+89:{'source': 'ja', 'target': 'en', 'text': 'スリーく', 'translatedText': 'three times', 'sound': None, 'srcSound': 'surīku'}
+90:スリーナイン
+90:three nine
+90:{'source': 'ja', 'target': 'en', 'text': 'スリーナイン', 'translatedText': 'three nine', 'sound': None, 'srcSound': "surīnain'"}
